@@ -4,4 +4,8 @@
 
 ## Portfolio Javier Cuadros
 
-La página web "funcody.com" fue mi primer proyecto de programación, a esta ese momento solo había realizado algunos WordPress. A pesar de que solo tenía conocimientos básicos en HTML y CSS, decidí experimentar con Pug y SCSS. El desarrollo del JavaScript fue un reto, ya que en ese momento no tenía experiencia en programación, sin embargo, logré implementar algunas funciones gracias a mi curiosidad y búsqueda de recursos en línea. Por último, la parte de PHP incluye una configuración que permite el envío de correos electrónicos con un diseño personalizado en HTML. Me siento orgulloso de este trabajo.
+El portfolio que presento ha sido desarrollado utilizando Laravel, JavaScript y Bootstrap, con el objetivo de mostrar mis proyectos de manera atractiva y accesible. Esta herramienta cuenta con una sección de administración, que me brinda la posibilidad de crear y editar los proyectos de manera eficiente y sencilla. La utilización de Laravel como marco de trabajo me ha permitido implementar un sistema de autenticación y seguridad robusto, garantizando la privacidad y confidencialidad de los datos de mi portfolio.
+
+
+Además, el uso de JavaScript y Bootstrap me ha permitido agregar interactividad y responsividad a la página web, permitiendo que los visitantes puedan acceder a la información de manera ágil y amigable desde cualquier dispositivo. La combinación de estas tecnologías me ha permitido crear una experiencia de usuario atractiva y moderna, con un diseño atractivo y funcional.
+Este portfolio es un reflejo de mi dedicación y habilidades en el desarrollo de software, y está diseñado para ser una herramienta efectiva en mi búsqueda de oportunidades profesionales. Espero que sea de su agrado y que le brinde una visión clara de mis proyectos y habilidades. Gracias por su tiempo y atención.
